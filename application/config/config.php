@@ -23,7 +23,7 @@ date_default_timezone_set("Asia/Bangkok");
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://'.$_SERVER['HTTP_HOST'].'/';
+$config['base_url'] = 'http://'.$_SERVER['HTTP_HOST'].'/dpd/test1';
 // $config['base_url'] = 'http://server.smkn1payakumbuh.sch.id:4430';
 
 /*

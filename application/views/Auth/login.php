@@ -15,6 +15,7 @@
 	<main class="form-signin">
 		<form id="form_login">
 			<div class="text-center">
+				Test GIT
 				<img class="mb-4 rounded-circle shadow p-2" src="<?= base_url('assets/img/Logo1.png') ?>" alt="" width="130" height="130">
 				<h1 class="h3 mb-3 fw-normal"><img src="<?= base_url('assets/img/logo_dapodik.png') ?>" width="50"></i> Please Sign In</h1>
 			</div>
