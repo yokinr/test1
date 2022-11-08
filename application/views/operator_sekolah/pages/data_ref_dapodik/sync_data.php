@@ -11,7 +11,7 @@
 		</td>
 		<td><?= count($sekolah) ?></td>
 		<td class="text-center">
-			<button class="btn btn-primary getData" data-id="getSekolah"><i class="fas fa-sync-alt"></i></button>
+			<button class="btn btn-success getData" data-id="getSekolah"><i class="fas fa-sync-alt"></i></button>
 		</td>
 	</tr>
 	<tr>
@@ -25,7 +25,7 @@
 		</td>
 		<td><?= count($gtk) ?></td>
 		<td class="text-center">
-			<button class="btn btn-primary getData" data-id="getGtk"><i class="fas fa-sync-alt"></i></button>
+			<button class="btn btn-success getData" data-id="getGtk"><i class="fas fa-sync-alt"></i></button>
 		</td>
 	</tr>
 	<tr>
@@ -63,7 +63,7 @@
 		</td>
 		<td><?= count($pd) ?></td>
 		<td class="text-center">
-			<button class="btn btn-primary getData" data-id="getPesertaDidik"><i class="fas fa-sync-alt"></i></button>
+			<button class="btn btn-success getData" data-id="getPesertaDidik"><i class="fas fa-sync-alt"></i></button>
 		</td>
 	</tr>
 	<tr>
@@ -77,7 +77,7 @@
 		</td>
 		<td><?= count($rombel) ?></td>
 		<td class="text-center">
-			<button class="btn btn-primary getData" data-id="getRombonganBelajar"><i class="fas fa-sync-alt"></i></button>
+			<button class="btn btn-success getData" data-id="getRombonganBelajar"><i class="fas fa-sync-alt"></i></button>
 		</td>
 	</tr>
 	<tr>
@@ -126,6 +126,6 @@
 			<label for="pengguna" class="form-check-label">Pengguna</label>
 		</td>
 		<td><?= count($pengguna) ?></td>
-		<td class="text-center"><button class="btn btn-primary getData" data-id="getPengguna"><i class="fas fa-sync-alt"></i></button></td>
+		<td class="text-center"><button class="btn btn-success getData" data-id="getPengguna"><i class="fas fa-sync-alt"></i></button></td>
 	</tr>
 </table>
